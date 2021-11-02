@@ -1,11 +1,11 @@
 # Groundwater-Dynamic-Clustering
 doi of this repo:  [![DOI](https://zenodo.org/badge/223953264.svg)](https://zenodo.org/badge/latestdoi/223953264)  
 
-doi of according publication:    
-XXXX - will be added once published
-
 This repository should enable you to reproduce the dynamic-based Groundwater-Hydrograph clustering method proposed in:     
-*Wunsch, A., Liesch, T., Broda, S., Feature-based Groundwater Hydrograph Clustering using unsupervised Self-Organizing-Map-Ensembles (submitted)*
+*Wunsch, A., Liesch, T., Broda, S. (2021). Feature-based Groundwater Hydrograph Clustering Using Unsupervised Self-Organizing Map-Ensembles. Water Resources Management. https://doi.org/10.1007/s11269-021-03006-y*
+
+Electronic Supplementary Material: https://static-content.springer.com/esm/art%3A10.1007%2Fs11269-021-03006-y/MediaObjects/11269_2021_3006_MOESM1_ESM.pdf
+
 
 Contact: andreas.wunsch@kit.edu    
 
